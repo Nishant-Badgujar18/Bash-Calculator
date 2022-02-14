@@ -10,3 +10,11 @@
   * Modulus
   * Power
 *  It evaluates the expression using **Infix Expression Evaluation** & all expressions are evaluated according to their **Precedence**.
+
+# Installation:
+
+1. Clone Respository
+
+    ```makefile
+    $ git clone https://github.com/Nishant-Badgujar18/Bash-Calculator.git
+    ```
