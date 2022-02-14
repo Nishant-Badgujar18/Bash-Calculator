@@ -8,3 +8,5 @@
   * Multiplication
   * Division
   * Modulus
+  * Power
+*  It evaluates the expression using **Infix Expression Evaluation** & all expressions are evaluated according to their **Precedence**.
